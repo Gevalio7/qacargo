@@ -1,0 +1,8 @@
+[2023-11-05T18:46:20+0300] [WARNING] http://192.168.1.51:3000/js/main.js 1:102761 "[webpack-dev-server] Warnings while compiling."
+[2023-11-05T18:46:20+0300] [WARNING] http://192.168.1.51:3000/js/main.js 1:102761 "[webpack-dev-server] WARNING\nasset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  js/3659.js (285 KiB)\n  js/3616.js (635 KiB)\n  js/979.js (318 KiB)"
+[2023-11-05T18:46:20+0300] [WARNING] http://192.168.1.51:3001/remoteEntry.js 1:102696 "[webpack-dev-server] Warnings while compiling."
+[2023-11-05T18:46:20+0300] [WARNING] http://192.168.1.51:3001/remoteEntry.js 1:102696 "[webpack-dev-server] WARNING\nasset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  js/25.js (891 KiB)"
+[2023-11-05T18:46:22+0300] [WARNING] http://192.168.1.51:3000/js/main.js 1:102761 "[webpack-dev-server] Warnings while compiling."
+[2023-11-05T18:46:22+0300] [WARNING] http://192.168.1.51:3000/js/main.js 1:102761 "[webpack-dev-server] WARNING\nasset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  js/3659.js (285 KiB)\n  js/3616.js (635 KiB)\n  js/979.js (318 KiB)"
+[2023-11-05T18:46:22+0300] [WARNING] http://192.168.1.51:3001/remoteEntry.js 1:102696 "[webpack-dev-server] Warnings while compiling."
+[2023-11-05T18:46:22+0300] [WARNING] http://192.168.1.51:3001/remoteEntry.js 1:102696 "[webpack-dev-server] WARNING\nasset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  js/25.js (891 KiB)"
